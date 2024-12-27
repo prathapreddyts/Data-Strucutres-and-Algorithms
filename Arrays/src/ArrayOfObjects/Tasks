@@ -1,0 +1,8 @@
+Students
+    firstname,
+    lastname,
+    age,
+    List<Integers> grades//Telugu, English, Maths, Science, Social(90, 80, 70, 60, 50)
+
+ 10 students data into list
+
