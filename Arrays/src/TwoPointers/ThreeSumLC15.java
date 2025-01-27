@@ -1,4 +1,4 @@
-package Arrays.TwoPointers;
+package TwoPointers;
 import java.util.*;
 public class ThreeSumLC15 {
 

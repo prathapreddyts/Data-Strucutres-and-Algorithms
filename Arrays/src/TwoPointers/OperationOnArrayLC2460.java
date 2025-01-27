@@ -1,4 +1,4 @@
-package Arrays.TwoPointers;
+package TwoPointers;
 
 public class OperationOnArrayLC2460 {
     public int[] applyOperations(int[] nums) {

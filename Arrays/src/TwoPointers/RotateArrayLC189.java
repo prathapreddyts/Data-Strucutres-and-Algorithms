@@ -1,4 +1,4 @@
-package Arrays.TwoPointers;
+package TwoPointers;
 
 public class RotateArrayLC189 {
     public void rotate(int[] nums, int k) {

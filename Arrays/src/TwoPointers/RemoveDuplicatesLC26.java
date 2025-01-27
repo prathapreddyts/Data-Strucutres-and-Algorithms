@@ -1,4 +1,4 @@
-package Arrays.TwoPointers;
+package TwoPointers;
 
 public class RemoveDuplicatesLC26 {
 

@@ -1,4 +1,4 @@
-package Arrays.TwoPointers;
+package TwoPointers;
 
 public class PartitionArrayLC2161 {
     public int[] pivotArray(int[] nums, int pivot) {

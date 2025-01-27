@@ -1,4 +1,4 @@
-package Arrays.TwoPointers;
+package TwoPointers;
 
 public class RearrangeLC2149 {
     public int[] rearrangeArray(int[] nums) {
